@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Варвара](https://up.htmlacademy.ru/htmlcss-individual/2/user/2731179).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/seraphim).
+* Ссылка: [Мой проект](https://varvarakizhina-cyber.github.io/2731179-sedona-2/)
 
 ---
 
